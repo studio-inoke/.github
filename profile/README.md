@@ -15,12 +15,12 @@ We bring strategy, design and engineering together to build digital products and
 
 Exploring Sardinia’s ancient history through conversation. An AI assistant for the National Archaeological Museum “G. Asproni” in Nuoro, developed in dialogue with scientific staff.
 
-### `02` GrazIA
+### `02` [GrazIA](https://graz-ia.it/)
 **Applied AI · Cultural heritage**
 
 Bringing literary heritage into a conversational museum experience. Knowledge preparation and technical integration for ISRE / Museo Deledda.
 
-[About Museo Deleddiano — ISRE ↗](https://www.isresardegna.it/index.php?c=4094&nodesc=1&s=16&v=9&xsl=565)
+[Explore GrazIA ↗](https://graz-ia.it/)
 
 ### `03` [ACCERT](https://accert.it/) & [QuickBooking](https://quickbooking.it/)
 **Product engineering · End-to-end delivery**
