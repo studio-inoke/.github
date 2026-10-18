@@ -10,7 +10,7 @@ We bring strategy, design and engineering together to build digital products and
 
 ## Selected work
 
-### `01` Sisaia
+### `01` [Sisaia](https://sisaia.it/)
 **Conversational AI · Archaeology**
 
 Exploring Sardinia’s ancient history through conversation. An AI assistant for the National Archaeological Museum “G. Asproni” in Nuoro, developed in dialogue with scientific staff.
@@ -20,10 +20,15 @@ Exploring Sardinia’s ancient history through conversation. An AI assistant for
 
 Bringing literary heritage into a conversational museum experience. Knowledge preparation and technical integration for ISRE / Museo Deledda.
 
-### `03` ACCERT & QuickBooking
+[About Museo Deleddiano — ISRE ↗](https://www.isresardegna.it/index.php?c=4094&nodesc=1&s=16&v=9&xsl=565)
+
+### `03` [ACCERT](https://accert.it/) & [QuickBooking](https://quickbooking.it/)
 **Product engineering · End-to-end delivery**
 
-From product ideas and software architecture to implementation, integration and continuous delivery.
+- **[ACCERT](https://accert.it/)** — A cloud platform for workplace safety documentation, training, certificates and expiry tracking.
+- **[QuickBooking](https://quickbooking.it/)** — A platform for managing bookings and distributing services and experiences.
+
+Our role: from product ideas and software architecture to implementation, integration and continuous delivery.
 
 <details>
 <summary><b>More cultural and territorial projects</b></summary>
